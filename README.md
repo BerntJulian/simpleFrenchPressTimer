@@ -1,8 +1,8 @@
 # simpleFrenchPressTimer
 A commandline timer for your french press. The scrip opens a new terminal with a timer. 
 When the time is out the timer comes in focus, implying that the time is out. 
-Change the **runtime** variable to what your press needs in seconds. Allow executing file as program with:  ```
-chmod +x /path/file```
+Change the **runtime** variable to what your press needs in seconds. Allow executing file with:  ```bash
+chmod +x /path/file```. 
 To run the script globaly add the script to ```/usr/local/bin```.
 
 ```
